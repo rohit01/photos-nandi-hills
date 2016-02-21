@@ -1,0 +1,7 @@
+# Ignore temp files
+_site
+.DS_Store
+*~
+*.pyc
+*.swp
+
